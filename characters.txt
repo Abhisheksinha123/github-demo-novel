@@ -1,5 +1,13 @@
-Mick, 
-tom , 
-Daisy, 
-Ramu ,
-Nathu
+Mick,  Star
+
+
+tom , Star brother
+
+
+Daisy, Star Sister
+
+
+Ramu , Star Owner
+
+
+Nathu , Star friend
